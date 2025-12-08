@@ -1,0 +1,2797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fcpxml>
+<fcpxml version="1.9">
+  <resources>
+    <format id="r1" name="FFVideoFormat1080p30" frameDuration="1/30s" width="1920" height="1080" colorSpace="1-1-1 (Rec. 709)"/>
+    <effect id="r2" name="Basic Title" uid=".../Titles.localized/Bumper:Opener.localized/Basic Title.localized/Basic Title.moti"/>
+  </resources>
+  <library>
+    <event name="subtitles" uid="05EC8F230821928A2588C91D142C8304">
+      <project name="subtitles" uid="D8F1D72730940C9A690DD282DCDDD9DC" modDate="2025-12-05 12:16:30 +0000">
+        <sequence format="r1" duration="221100/3000s" tcStart="0/30s" tcFormat="NDF" audioLayout="stereo" audioRate="48k">
+          <spine>
+            <gap name="Gap" offset="0s" start="0s" duration="221100/3000s">
+              <title ref="r2" lane="1" name="day - Basic Title" offset="0/3000s" start="0/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts1">day</text-style>
+                </text>
+                <text-style-def id="ts1">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="two - Basic Title" offset="400/3000s" start="400/3000s" duration="600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts2">two</text-style>
+                </text>
+                <text-style-def id="ts2">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="of - Basic Title" offset="1000/3000s" start="1000/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts3">of</text-style>
+                </text>
+                <text-style-def id="ts3">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="making - Basic Title" offset="1300/3000s" start="1300/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts4">making</text-style>
+                </text>
+                <text-style-def id="ts4">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="a - Basic Title" offset="1700/3000s" start="1700/3000s" duration="700/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts5">a</text-style>
+                </text>
+                <text-style-def id="ts5">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="game - Basic Title" offset="2400/3000s" start="2400/3000s" duration="700/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts6">game</text-style>
+                </text>
+                <text-style-def id="ts6">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="and - Basic Title" offset="3100/3000s" start="3100/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts7">and</text-style>
+                </text>
+                <text-style-def id="ts7">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="publishing - Basic Title" offset="3400/3000s" start="3400/3000s" duration="900/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts8">publishing</text-style>
+                </text>
+                <text-style-def id="ts8">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="to - Basic Title" offset="4300/3000s" start="4300/3000s" duration="800/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts9">to</text-style>
+                </text>
+                <text-style-def id="ts9">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="play - Basic Title" offset="5100/3000s" start="5100/3000s" duration="500/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts10">play</text-style>
+                </text>
+                <text-style-def id="ts10">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="store. - Basic Title" offset="5600/3000s" start="5600/3000s" duration="800/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts11">store.</text-style>
+                </text>
+                <text-style-def id="ts11">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="This - Basic Title" offset="6800/3000s" start="6800/3000s" duration="600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts12">This</text-style>
+                </text>
+                <text-style-def id="ts12">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="was - Basic Title" offset="8800/3000s" start="8800/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts13">was</text-style>
+                </text>
+                <text-style-def id="ts13">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="epic. - Basic Title" offset="9100/3000s" start="9100/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts14">epic.</text-style>
+                </text>
+                <text-style-def id="ts14">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="at - Basic Title" offset="14200/3000s" start="14200/3000s" duration="500/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts15">at</text-style>
+                </text>
+                <text-style-def id="ts15">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="look - Basic Title" offset="13500/3000s" start="13500/3000s" duration="700/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts16">look</text-style>
+                </text>
+                <text-style-def id="ts16">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="Just - Basic Title" offset="13200/3000s" start="13200/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts17">Just</text-style>
+                </text>
+                <text-style-def id="ts17">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="it - Basic Title" offset="14700/3000s" start="14700/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts18">it,</text-style>
+                </text>
+                <text-style-def id="ts18">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="the - Basic Title" offset="15400/3000s" start="15400/3000s" duration="100/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts19">the</text-style>
+                </text>
+                <text-style-def id="ts19">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="color - Basic Title" offset="15500/3000s" start="15500/3000s" duration="800/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts20">color,</text-style>
+                </text>
+                <text-style-def id="ts20">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="the - Basic Title" offset="17100/3000s" start="17100/3000s" duration="200/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts21">the</text-style>
+                </text>
+                <text-style-def id="ts21">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="vibe - Basic Title" offset="17300/3000s" start="17300/3000s" duration="700/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts22">vibe,</text-style>
+                </text>
+                <text-style-def id="ts22">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="it - Basic Title" offset="18900/3000s" start="18900/3000s" duration="200/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts23">it</text-style>
+                </text>
+                <text-style-def id="ts23">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="feels - Basic Title" offset="19100/3000s" start="19100/3000s" duration="600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts24">feels</text-style>
+                </text>
+                <text-style-def id="ts24">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="like - Basic Title" offset="19700/3000s" start="19700/3000s" duration="1100/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts25">like</text-style>
+                </text>
+                <text-style-def id="ts25">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="just - Basic Title" offset="20800/3000s" start="20800/3000s" duration="800/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts26">just</text-style>
+                </text>
+                <text-style-def id="ts26">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="dropped - Basic Title" offset="21600/3000s" start="21600/3000s" duration="1300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts27">dropped</text-style>
+                </text>
+                <text-style-def id="ts27">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="back - Basic Title" offset="22900/3000s" start="22900/3000s" duration="1000/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts28">back</text-style>
+                </text>
+                <text-style-def id="ts28">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="into - Basic Title" offset="23900/3000s" start="23900/3000s" duration="800/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts29">into</text-style>
+                </text>
+                <text-style-def id="ts29">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="the - Basic Title" offset="24700/3000s" start="24700/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts30">the</text-style>
+                </text>
+                <text-style-def id="ts30">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="of - Basic Title" offset="27300/3000s" start="27300/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts31">of</text-style>
+                </text>
+                <text-style-def id="ts31">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="90s - Basic Title" offset="25600/3000s" start="25600/3000s" duration="1700/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts32">90s</text-style>
+                </text>
+                <text-style-def id="ts32">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="mid - Basic Title" offset="25100/3000s" start="25100/3000s" duration="500/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts33">mid</text-style>
+                </text>
+                <text-style-def id="ts33">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="E - Basic Title" offset="27800/3000s" start="27800/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts34">E</text-style>
+                </text>
+                <text-style-def id="ts34">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="is - Basic Title" offset="28100/3000s" start="28100/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts35">is</text-style>
+                </text>
+                <text-style-def id="ts35">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="one - Basic Title" offset="28500/3000s" start="28500/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts36">one</text-style>
+                </text>
+                <text-style-def id="ts36">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="era. - Basic Title" offset="28900/3000s" start="28900/3000s" duration="600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts37">era.</text-style>
+                </text>
+                <text-style-def id="ts37">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="By - Basic Title" offset="30100/3000s" start="30100/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts38">By</text-style>
+                </text>
+                <text-style-def id="ts38">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="the - Basic Title" offset="30400/3000s" start="30400/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts39">the</text-style>
+                </text>
+                <text-style-def id="ts39">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="way - Basic Title" offset="30700/3000s" start="30700/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts40">way,</text-style>
+                </text>
+                <text-style-def id="ts40">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="thats - Basic Title" offset="31500/3000s" start="31500/3000s" duration="200/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts41">that's</text-style>
+                </text>
+                <text-style-def id="ts41">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="a - Basic Title" offset="31700/3000s" start="31700/3000s" duration="200/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts42">a</text-style>
+                </text>
+                <text-style-def id="ts42">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="render - Basic Title" offset="31900/3000s" start="31900/3000s" duration="500/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts43">render</text-style>
+                </text>
+                <text-style-def id="ts43">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="made - Basic Title" offset="32400/3000s" start="32400/3000s" duration="1600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts44">made</text-style>
+                </text>
+                <text-style-def id="ts44">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="in - Basic Title" offset="34000/3000s" start="34000/3000s" duration="600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts45">in</text-style>
+                </text>
+                <text-style-def id="ts45">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="cinema - Basic Title" offset="34600/3000s" start="34600/3000s" duration="600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts46">cinema</text-style>
+                </text>
+                <text-style-def id="ts46">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="by - Basic Title" offset="37300/3000s" start="37300/3000s" duration="900/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts47">by</text-style>
+                </text>
+                <text-style-def id="ts47">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="4D - Basic Title" offset="36000/3000s" start="36000/3000s" duration="1300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts48">4D</text-style>
+                </text>
+                <text-style-def id="ts48">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="bench - Basic Title" offset="35200/3000s" start="35200/3000s" duration="800/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts49">bench</text-style>
+                </text>
+                <text-style-def id="ts49">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="Derka - Basic Title" offset="38200/3000s" start="38200/3000s" duration="1200/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts50">Derka</text-style>
+                </text>
+                <text-style-def id="ts50">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="Kai. - Basic Title" offset="39400/3000s" start="39400/3000s" duration="800/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts51">Kai.</text-style>
+                </text>
+                <text-style-def id="ts51">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="I - Basic Title" offset="41200/3000s" start="41200/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts52">I</text-style>
+                </text>
+                <text-style-def id="ts52">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="hope - Basic Title" offset="41500/3000s" start="41500/3000s" duration="1000/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts53">hope</text-style>
+                </text>
+                <text-style-def id="ts53">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="Im - Basic Title" offset="42500/3000s" start="42500/3000s" duration="700/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts54">I'm</text-style>
+                </text>
+                <text-style-def id="ts54">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="running - Basic Title" offset="43200/3000s" start="43200/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts55">running</text-style>
+                </text>
+                <text-style-def id="ts55">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="his - Basic Title" offset="43600/3000s" start="43600/3000s" duration="800/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts56">his</text-style>
+                </text>
+                <text-style-def id="ts56">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="name - Basic Title" offset="44400/3000s" start="44400/3000s" duration="600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts57">name</text-style>
+                </text>
+                <text-style-def id="ts57">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="correct - Basic Title" offset="45000/3000s" start="45000/3000s" duration="800/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts58">correct</text-style>
+                </text>
+                <text-style-def id="ts58">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="and - Basic Title" offset="45800/3000s" start="45800/3000s" duration="700/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts59">and</text-style>
+                </text>
+                <text-style-def id="ts59">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="yep - Basic Title" offset="46500/3000s" start="46500/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts60">yep,</text-style>
+                </text>
+                <text-style-def id="ts60">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="its - Basic Title" offset="47800/3000s" start="47800/3000s" duration="200/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts61">it's</text-style>
+                </text>
+                <text-style-def id="ts61">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="game - Basic Title" offset="48500/3000s" start="48500/3000s" duration="700/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts62">game</text-style>
+                </text>
+                <text-style-def id="ts62">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="a - Basic Title" offset="48300/3000s" start="48300/3000s" duration="200/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts63">a</text-style>
+                </text>
+                <text-style-def id="ts63">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="not - Basic Title" offset="48000/3000s" start="48000/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts64">not</text-style>
+                </text>
+                <text-style-def id="ts64">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="which - Basic Title" offset="49300/3000s" start="49300/3000s" duration="600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts65">which</text-style>
+                </text>
+                <text-style-def id="ts65">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="is - Basic Title" offset="49900/3000s" start="49900/3000s" duration="500/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts66">is</text-style>
+                </text>
+                <text-style-def id="ts66">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="a - Basic Title" offset="50400/3000s" start="50400/3000s" duration="2000/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts67">a</text-style>
+                </text>
+                <text-style-def id="ts67">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="render. - Basic Title" offset="50400/3000s" start="50400/3000s" duration="1000/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts68">render.</text-style>
+                </text>
+                <text-style-def id="ts68">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="But - Basic Title" offset="52100/3000s" start="52100/3000s" duration="200/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts69">But</text-style>
+                </text>
+                <text-style-def id="ts69">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="I - Basic Title" offset="52300/3000s" start="52300/3000s" duration="1300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts70">I</text-style>
+                </text>
+                <text-style-def id="ts70">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="am - Basic Title" offset="53600/3000s" start="53600/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts71">am</text-style>
+                </text>
+                <text-style-def id="ts71">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="gonna - Basic Title" offset="54000/3000s" start="54000/3000s" duration="500/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts72">gonna</text-style>
+                </text>
+                <text-style-def id="ts72">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="go - Basic Title" offset="54500/3000s" start="54500/3000s" duration="600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts73">go</text-style>
+                </text>
+                <text-style-def id="ts73">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="and - Basic Title" offset="55100/3000s" start="55100/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts74">and</text-style>
+                </text>
+                <text-style-def id="ts74">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="totally - Basic Title" offset="55400/3000s" start="55400/3000s" duration="500/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts75">totally</text-style>
+                </text>
+                <text-style-def id="ts75">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="steal - Basic Title" offset="55900/3000s" start="55900/3000s" duration="600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts76">steal</text-style>
+                </text>
+                <text-style-def id="ts76">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="the - Basic Title" offset="56500/3000s" start="56500/3000s" duration="600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts77">the</text-style>
+                </text>
+                <text-style-def id="ts77">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="the - Basic Title" offset="58800/3000s" start="58800/3000s" duration="200/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts78">the</text-style>
+                </text>
+                <text-style-def id="ts78">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="and - Basic Title" offset="57900/3000s" start="57900/3000s" duration="900/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts79">and</text-style>
+                </text>
+                <text-style-def id="ts79">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="idea - Basic Title" offset="57100/3000s" start="57100/3000s" duration="800/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts80">idea</text-style>
+                </text>
+                <text-style-def id="ts80">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="style. - Basic Title" offset="59000/3000s" start="59000/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts81">style.</text-style>
+                </text>
+                <text-style-def id="ts81">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="No - Basic Title" offset="68400/3000s" start="68400/3000s" duration="1300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts82">No</text-style>
+                </text>
+                <text-style-def id="ts82">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="man - Basic Title" offset="69700/3000s" start="69700/3000s" duration="700/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts83">man,</text-style>
+                </text>
+                <text-style-def id="ts83">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="seriously - Basic Title" offset="70400/3000s" start="70400/3000s" duration="900/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts84">seriously,</text-style>
+                </text>
+                <text-style-def id="ts84">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="Im - Basic Title" offset="73200/3000s" start="73200/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts85">I'm</text-style>
+                </text>
+                <text-style-def id="ts85">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="taking - Basic Title" offset="73600/3000s" start="73600/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts86">taking</text-style>
+                </text>
+                <text-style-def id="ts86">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="inspiration - Basic Title" offset="74800/3000s" start="74800/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts87">inspiration</text-style>
+                </text>
+                <text-style-def id="ts87">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="from - Basic Title" offset="75100/3000s" start="75100/3000s" duration="1100/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts88">from</text-style>
+                </text>
+                <text-style-def id="ts88">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="this - Basic Title" offset="76200/3000s" start="76200/3000s" duration="700/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts89">this</text-style>
+                </text>
+                <text-style-def id="ts89">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="and - Basic Title" offset="76900/3000s" start="76900/3000s" duration="1200/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts90">and</text-style>
+                </text>
+                <text-style-def id="ts90">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="trying - Basic Title" offset="78100/3000s" start="78100/3000s" duration="600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts91">trying</text-style>
+                </text>
+                <text-style-def id="ts91">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="to - Basic Title" offset="78700/3000s" start="78700/3000s" duration="600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts92">to</text-style>
+                </text>
+                <text-style-def id="ts92">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="bring - Basic Title" offset="79300/3000s" start="79300/3000s" duration="600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts93">bring</text-style>
+                </text>
+                <text-style-def id="ts93">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="exact - Basic Title" offset="81700/3000s" start="81700/3000s" duration="1300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts94">exact</text-style>
+                </text>
+                <text-style-def id="ts94">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="into - Basic Title" offset="80800/3000s" start="80800/3000s" duration="900/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts95">into</text-style>
+                </text>
+                <text-style-def id="ts95">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="this - Basic Title" offset="79900/3000s" start="79900/3000s" duration="900/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts96">this</text-style>
+                </text>
+                <text-style-def id="ts96">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="mode - Basic Title" offset="83000/3000s" start="83000/3000s" duration="1900/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts97">mode</text-style>
+                </text>
+                <text-style-def id="ts97">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="in - Basic Title" offset="84900/3000s" start="84900/3000s" duration="1300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts98">in</text-style>
+                </text>
+                <text-style-def id="ts98">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="my - Basic Title" offset="86200/3000s" start="86200/3000s" duration="700/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts99">my</text-style>
+                </text>
+                <text-style-def id="ts99">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="own - Basic Title" offset="86900/3000s" start="86900/3000s" duration="700/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts100">own</text-style>
+                </text>
+                <text-style-def id="ts100">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="game. - Basic Title" offset="87600/3000s" start="87600/3000s" duration="700/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts101">game.</text-style>
+                </text>
+                <text-style-def id="ts101">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="They - Basic Title" offset="89300/3000s" start="89300/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts102">They</text-style>
+                </text>
+                <text-style-def id="ts102">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="use - Basic Title" offset="89600/3000s" start="89600/3000s" duration="1100/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts103">use</text-style>
+                </text>
+                <text-style-def id="ts103">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="the - Basic Title" offset="90700/3000s" start="90700/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts104">the</text-style>
+                </text>
+                <text-style-def id="ts104">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="cinema - Basic Title" offset="91100/3000s" start="91100/3000s" duration="700/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts105">cinema</text-style>
+                </text>
+                <text-style-def id="ts105">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="bench - Basic Title" offset="91800/3000s" start="91800/3000s" duration="700/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts106">bench</text-style>
+                </text>
+                <text-style-def id="ts106">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="4D - Basic Title" offset="92500/3000s" start="92500/3000s" duration="1200/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts107">4D</text-style>
+                </text>
+                <text-style-def id="ts107">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="and - Basic Title" offset="93700/3000s" start="93700/3000s" duration="700/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts108">and</text-style>
+                </text>
+                <text-style-def id="ts108">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="Photoshop - Basic Title" offset="94400/3000s" start="94400/3000s" duration="800/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts109">Photoshop</text-style>
+                </text>
+                <text-style-def id="ts109">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="to - Basic Title" offset="95200/3000s" start="95200/3000s" duration="1300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts110">to</text-style>
+                </text>
+                <text-style-def id="ts110">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="create - Basic Title" offset="96800/3000s" start="96800/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts111">create</text-style>
+                </text>
+                <text-style-def id="ts111">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="textures - Basic Title" offset="98000/3000s" start="98000/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts112">textures</text-style>
+                </text>
+                <text-style-def id="ts112">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="and - Basic Title" offset="98300/3000s" start="98300/3000s" duration="800/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts113">and</text-style>
+                </text>
+                <text-style-def id="ts113">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="render - Basic Title" offset="99100/3000s" start="99100/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts114">render</text-style>
+                </text>
+                <text-style-def id="ts114">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="it - Basic Title" offset="99500/3000s" start="99500/3000s" duration="800/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts115">it</text-style>
+                </text>
+                <text-style-def id="ts115">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="out. - Basic Title" offset="100300/3000s" start="100300/3000s" duration="500/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts116">out.</text-style>
+                </text>
+                <text-style-def id="ts116">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="So - Basic Title" offset="101300/3000s" start="101300/3000s" duration="200/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts117">So</text-style>
+                </text>
+                <text-style-def id="ts117">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="the - Basic Title" offset="101500/3000s" start="101500/3000s" duration="500/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts118">the</text-style>
+                </text>
+                <text-style-def id="ts118">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="problem - Basic Title" offset="102000/3000s" start="102000/3000s" duration="700/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts119">problem</text-style>
+                </text>
+                <text-style-def id="ts119">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="is - Basic Title" offset="102700/3000s" start="102700/3000s" duration="900/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts120">is,</text-style>
+                </text>
+                <text-style-def id="ts120">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="obviously - Basic Title" offset="103600/3000s" start="103600/3000s" duration="1900/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts121">obviously,</text-style>
+                </text>
+                <text-style-def id="ts121">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="you - Basic Title" offset="107100/3000s" start="107100/3000s" duration="200/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts122">you</text-style>
+                </text>
+                <text-style-def id="ts122">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="know - Basic Title" offset="107300/3000s" start="107300/3000s" duration="500/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts123">know,</text-style>
+                </text>
+                <text-style-def id="ts123">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="I - Basic Title" offset="107800/3000s" start="107800/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts124">I</text-style>
+                </text>
+                <text-style-def id="ts124">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="broke - Basic Title" offset="108700/3000s" start="108700/3000s" duration="600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts125">broke</text-style>
+                </text>
+                <text-style-def id="ts125">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="a - Basic Title" offset="108500/3000s" start="108500/3000s" duration="200/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts126">a</text-style>
+                </text>
+                <text-style-def id="ts126">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="am - Basic Title" offset="108100/3000s" start="108100/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts127">am</text-style>
+                </text>
+                <text-style-def id="ts127">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="ass - Basic Title" offset="109300/3000s" start="109300/3000s" duration="800/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts128">ass</text-style>
+                </text>
+                <text-style-def id="ts128">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="kid - Basic Title" offset="110700/3000s" start="110700/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts129">kid</text-style>
+                </text>
+                <text-style-def id="ts129">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="who - Basic Title" offset="111100/3000s" start="111100/3000s" duration="900/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts130">who</text-style>
+                </text>
+                <text-style-def id="ts130">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="cant - Basic Title" offset="112000/3000s" start="112000/3000s" duration="900/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts131">can't</text-style>
+                </text>
+                <text-style-def id="ts131">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="afford - Basic Title" offset="113100/3000s" start="113100/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts132">afford</text-style>
+                </text>
+                <text-style-def id="ts132">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="those - Basic Title" offset="113400/3000s" start="113400/3000s" duration="900/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts133">those</text-style>
+                </text>
+                <text-style-def id="ts133">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="things. - Basic Title" offset="114300/3000s" start="114300/3000s" duration="800/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts134">things.</text-style>
+                </text>
+                <text-style-def id="ts134">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="So - Basic Title" offset="116300/3000s" start="116300/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts135">So</text-style>
+                </text>
+                <text-style-def id="ts135">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="what - Basic Title" offset="116600/3000s" start="116600/3000s" duration="700/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts136">what</text-style>
+                </text>
+                <text-style-def id="ts136">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="Im - Basic Title" offset="117300/3000s" start="117300/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts137">I'm</text-style>
+                </text>
+                <text-style-def id="ts137">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="gonna - Basic Title" offset="117600/3000s" start="117600/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts138">gonna</text-style>
+                </text>
+                <text-style-def id="ts138">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="do - Basic Title" offset="117900/3000s" start="117900/3000s" duration="800/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts139">do</text-style>
+                </text>
+                <text-style-def id="ts139">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="is - Basic Title" offset="118700/3000s" start="118700/3000s" duration="1600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts140">is</text-style>
+                </text>
+                <text-style-def id="ts140">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="Im - Basic Title" offset="120300/3000s" start="120300/3000s" duration="800/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts141">I'm</text-style>
+                </text>
+                <text-style-def id="ts141">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="gonna - Basic Title" offset="121200/3000s" start="121200/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts142">gonna</text-style>
+                </text>
+                <text-style-def id="ts142">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="make - Basic Title" offset="121600/3000s" start="121600/3000s" duration="600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts143">make</text-style>
+                </text>
+                <text-style-def id="ts143">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="my - Basic Title" offset="122200/3000s" start="122200/3000s" duration="600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts144">my</text-style>
+                </text>
+                <text-style-def id="ts144">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="own - Basic Title" offset="122800/3000s" start="122800/3000s" duration="800/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts145">own</text-style>
+                </text>
+                <text-style-def id="ts145">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="using - Basic Title" offset="123600/3000s" start="123600/3000s" duration="1600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts146">using</text-style>
+                </text>
+                <text-style-def id="ts146">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="GIM - Basic Title" offset="125200/3000s" start="125200/3000s" duration="2000/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts147">GIM</text-style>
+                </text>
+                <text-style-def id="ts147">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="and - Basic Title" offset="125200/3000s" start="125200/3000s" duration="3000/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts148">and</text-style>
+                </text>
+                <text-style-def id="ts148">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="Blender - Basic Title" offset="128200/3000s" start="128200/3000s" duration="1200/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts149">Blender,</text-style>
+                </text>
+                <text-style-def id="ts149">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="bake - Basic Title" offset="129400/3000s" start="129400/3000s" duration="1300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts150">bake</text-style>
+                </text>
+                <text-style-def id="ts150">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="everything - Basic Title" offset="130700/3000s" start="130700/3000s" duration="900/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts151">everything</text-style>
+                </text>
+                <text-style-def id="ts151">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="and - Basic Title" offset="131600/3000s" start="131600/3000s" duration="1500/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts152">and</text-style>
+                </text>
+                <text-style-def id="ts152">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="move - Basic Title" offset="133100/3000s" start="133100/3000s" duration="700/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts153">move</text-style>
+                </text>
+                <text-style-def id="ts153">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="it - Basic Title" offset="133800/3000s" start="133800/3000s" duration="500/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts154">it</text-style>
+                </text>
+                <text-style-def id="ts154">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="all - Basic Title" offset="134700/3000s" start="134700/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts155">all</text-style>
+                </text>
+                <text-style-def id="ts155">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="into - Basic Title" offset="135100/3000s" start="135100/3000s" duration="700/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts156">into</text-style>
+                </text>
+                <text-style-def id="ts156">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="and - Basic Title" offset="136900/3000s" start="136900/3000s" duration="800/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts157">and</text-style>
+                </text>
+                <text-style-def id="ts157">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="old - Basic Title" offset="136500/3000s" start="136500/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts158">old</text-style>
+                </text>
+                <text-style-def id="ts158">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="good - Basic Title" offset="135800/3000s" start="135800/3000s" duration="700/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts159">good</text-style>
+                </text>
+                <text-style-def id="ts159">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="make - Basic Title" offset="137700/3000s" start="137700/3000s" duration="700/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts160">make</text-style>
+                </text>
+                <text-style-def id="ts160">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="actual - Basic Title" offset="138400/3000s" start="138400/3000s" duration="900/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts161">actual</text-style>
+                </text>
+                <text-style-def id="ts161">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="game. - Basic Title" offset="139300/3000s" start="139300/3000s" duration="800/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts162">game.</text-style>
+                </text>
+                <text-style-def id="ts162">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="I - Basic Title" offset="140900/3000s" start="140900/3000s" duration="200/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts163">I</text-style>
+                </text>
+                <text-style-def id="ts163">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="know - Basic Title" offset="141100/3000s" start="141100/3000s" duration="500/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts164">know</text-style>
+                </text>
+                <text-style-def id="ts164">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="it - Basic Title" offset="141600/3000s" start="141600/3000s" duration="500/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts165">it</text-style>
+                </text>
+                <text-style-def id="ts165">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="sounds - Basic Title" offset="142100/3000s" start="142100/3000s" duration="800/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts166">sounds</text-style>
+                </text>
+                <text-style-def id="ts166">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="really - Basic Title" offset="142900/3000s" start="142900/3000s" duration="2100/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts167">really</text-style>
+                </text>
+                <text-style-def id="ts167">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="off. - Basic Title" offset="145000/3000s" start="145000/3000s" duration="4400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts168">off.</text-style>
+                </text>
+                <text-style-def id="ts168">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="And - Basic Title" offset="150700/3000s" start="150700/3000s" duration="100/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts169">And</text-style>
+                </text>
+                <text-style-def id="ts169">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="importantly - Basic Title" offset="150800/3000s" start="150800/3000s" duration="800/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts170">importantly,</text-style>
+                </text>
+                <text-style-def id="ts170">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="you - Basic Title" offset="152600/3000s" start="152600/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts171">you</text-style>
+                </text>
+                <text-style-def id="ts171">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="know - Basic Title" offset="153000/3000s" start="153000/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts172">know</text-style>
+                </text>
+                <text-style-def id="ts172">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="what - Basic Title" offset="153300/3000s" start="153300/3000s" duration="600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts173">what,</text-style>
+                </text>
+                <text-style-def id="ts173">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="they - Basic Title" offset="155100/3000s" start="155100/3000s" duration="2000/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts174">they</text-style>
+                </text>
+                <text-style-def id="ts174">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="gave - Basic Title" offset="155100/3000s" start="155100/3000s" duration="2300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts175">gave</text-style>
+                </text>
+                <text-style-def id="ts175">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="us - Basic Title" offset="157400/3000s" start="157400/3000s" duration="800/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts176">us</text-style>
+                </text>
+                <text-style-def id="ts176">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="the - Basic Title" offset="158200/3000s" start="158200/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts177">the</text-style>
+                </text>
+                <text-style-def id="ts177">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="free - Basic Title" offset="158900/3000s" start="158900/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts178">free</text-style>
+                </text>
+                <text-style-def id="ts178">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="sample - Basic Title" offset="159200/3000s" start="159200/3000s" duration="1200/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts179">sample</text-style>
+                </text>
+                <text-style-def id="ts179">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="project. - Basic Title" offset="160400/3000s" start="160400/3000s" duration="1100/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts180">project.</text-style>
+                </text>
+                <text-style-def id="ts180">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="I - Basic Title" offset="162300/3000s" start="162300/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts181">I</text-style>
+                </text>
+                <text-style-def id="ts181">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="thought - Basic Title" offset="162600/3000s" start="162600/3000s" duration="700/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts182">thought,</text-style>
+                </text>
+                <text-style-def id="ts182">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="okay - Basic Title" offset="164900/3000s" start="164900/3000s" duration="100/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts183">okay,</text-style>
+                </text>
+                <text-style-def id="ts183">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="if - Basic Title" offset="165000/3000s" start="165000/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts184">if</text-style>
+                </text>
+                <text-style-def id="ts184">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="I - Basic Title" offset="165400/3000s" start="165400/3000s" duration="200/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts185">I</text-style>
+                </text>
+                <text-style-def id="ts185">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="were - Basic Title" offset="165600/3000s" start="165600/3000s" duration="200/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts186">were</text-style>
+                </text>
+                <text-style-def id="ts186">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="able - Basic Title" offset="165800/3000s" start="165800/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts187">able</text-style>
+                </text>
+                <text-style-def id="ts187">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="the - Basic Title" offset="167200/3000s" start="167200/3000s" duration="800/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts188">the</text-style>
+                </text>
+                <text-style-def id="ts188">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="download - Basic Title" offset="166600/3000s" start="166600/3000s" duration="600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts189">download</text-style>
+                </text>
+                <text-style-def id="ts189">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="to - Basic Title" offset="166300/3000s" start="166300/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts190">to</text-style>
+                </text>
+                <text-style-def id="ts190">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="sample - Basic Title" offset="168000/3000s" start="168000/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts191">sample</text-style>
+                </text>
+                <text-style-def id="ts191">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="project - Basic Title" offset="168400/3000s" start="168400/3000s" duration="1100/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts192">project,</text-style>
+                </text>
+                <text-style-def id="ts192">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="Id - Basic Title" offset="169600/3000s" start="169600/3000s" duration="1200/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts193">I'd</text-style>
+                </text>
+                <text-style-def id="ts193">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="be - Basic Title" offset="170800/3000s" start="170800/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts194">be</text-style>
+                </text>
+                <text-style-def id="ts194">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="able - Basic Title" offset="171100/3000s" start="171100/3000s" duration="1300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts195">able</text-style>
+                </text>
+                <text-style-def id="ts195">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="to - Basic Title" offset="172400/3000s" start="172400/3000s" duration="600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts196">to</text-style>
+                </text>
+                <text-style-def id="ts196">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="get - Basic Title" offset="173000/3000s" start="173000/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts197">get</text-style>
+                </text>
+                <text-style-def id="ts197">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="the - Basic Title" offset="173300/3000s" start="173300/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts198">the</text-style>
+                </text>
+                <text-style-def id="ts198">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="textures - Basic Title" offset="173700/3000s" start="173700/3000s" duration="1000/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts199">textures</text-style>
+                </text>
+                <text-style-def id="ts199">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="of - Basic Title" offset="174800/3000s" start="174800/3000s" duration="800/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts200">of</text-style>
+                </text>
+                <text-style-def id="ts200">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="the - Basic Title" offset="175800/3000s" start="175800/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts201">the</text-style>
+                </text>
+                <text-style-def id="ts201">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="vehicle - Basic Title" offset="176100/3000s" start="176100/3000s" duration="1200/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts202">vehicle</text-style>
+                </text>
+                <text-style-def id="ts202">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="and - Basic Title" offset="177300/3000s" start="177300/3000s" duration="1600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts203">and</text-style>
+                </text>
+                <text-style-def id="ts203">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="environment. - Basic Title" offset="179400/3000s" start="179400/3000s" duration="1400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts204">environment.</text-style>
+                </text>
+                <text-style-def id="ts204">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="the - Basic Title" offset="178900/3000s" start="178900/3000s" duration="500/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts205">the</text-style>
+                </text>
+                <text-style-def id="ts205">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="And - Basic Title" offset="181700/3000s" start="181700/3000s" duration="100/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts206">And</text-style>
+                </text>
+                <text-style-def id="ts206">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="you - Basic Title" offset="181800/3000s" start="181800/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts207">you</text-style>
+                </text>
+                <text-style-def id="ts207">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="know - Basic Title" offset="182100/3000s" start="182100/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts208">know</text-style>
+                </text>
+                <text-style-def id="ts208">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="what - Basic Title" offset="182400/3000s" start="182400/3000s" duration="600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts209">what,</text-style>
+                </text>
+                <text-style-def id="ts209">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="I - Basic Title" offset="183600/3000s" start="183600/3000s" duration="200/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts210">I</text-style>
+                </text>
+                <text-style-def id="ts210">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="downloaded - Basic Title" offset="183800/3000s" start="183800/3000s" duration="1000/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts211">downloaded</text-style>
+                </text>
+                <text-style-def id="ts211">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="using - Basic Title" offset="184800/3000s" start="184800/3000s" duration="1600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts212">using</text-style>
+                </text>
+                <text-style-def id="ts212">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="Gumroad - Basic Title" offset="186400/3000s" start="186400/3000s" duration="1500/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts213">Gumroad</text-style>
+                </text>
+                <text-style-def id="ts213">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="and - Basic Title" offset="187900/3000s" start="187900/3000s" duration="1500/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts214">and</text-style>
+                </text>
+                <text-style-def id="ts214">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="extracted - Basic Title" offset="189400/3000s" start="189400/3000s" duration="1600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts215">extracted</text-style>
+                </text>
+                <text-style-def id="ts215">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="the - Basic Title" offset="191400/3000s" start="191400/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts216">the</text-style>
+                </text>
+                <text-style-def id="ts216">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="files. - Basic Title" offset="191800/3000s" start="191800/3000s" duration="800/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts217">files.</text-style>
+                </text>
+                <text-style-def id="ts217">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="You - Basic Title" offset="193300/3000s" start="193300/3000s" duration="100/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts218">You</text-style>
+                </text>
+                <text-style-def id="ts218">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="know - Basic Title" offset="193400/3000s" start="193400/3000s" duration="200/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts219">know</text-style>
+                </text>
+                <text-style-def id="ts219">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="happened? - Basic Title" offset="194100/3000s" start="194100/3000s" duration="600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts220">happened?</text-style>
+                </text>
+                <text-style-def id="ts220">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="what - Basic Title" offset="193600/3000s" start="193600/3000s" duration="500/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts221">what</text-style>
+                </text>
+                <text-style-def id="ts221">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="I - Basic Title" offset="195700/3000s" start="195700/3000s" duration="100/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts222">I</text-style>
+                </text>
+                <text-style-def id="ts222">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="just - Basic Title" offset="195800/3000s" start="195800/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts223">just</text-style>
+                </text>
+                <text-style-def id="ts223">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="got - Basic Title" offset="196200/3000s" start="196200/3000s" duration="900/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts224">got</text-style>
+                </text>
+                <text-style-def id="ts224">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="an - Basic Title" offset="197100/3000s" start="197100/3000s" duration="1000/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts225">an</text-style>
+                </text>
+                <text-style-def id="ts225">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="C4D - Basic Title" offset="198100/3000s" start="198100/3000s" duration="3300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts226">C4D</text-style>
+                </text>
+                <text-style-def id="ts226">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="file. - Basic Title" offset="201400/3000s" start="201400/3000s" duration="1200/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts227">file.</text-style>
+                </text>
+                <text-style-def id="ts227">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="Pro - Basic Title" offset="203600/3000s" start="203600/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts228">Pro,</text-style>
+                </text>
+                <text-style-def id="ts228">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="what - Basic Title" offset="204600/3000s" start="204600/3000s" duration="200/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts229">what</text-style>
+                </text>
+                <text-style-def id="ts229">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="the - Basic Title" offset="204800/3000s" start="204800/3000s" duration="500/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts230">the</text-style>
+                </text>
+                <text-style-def id="ts230">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="fuck - Basic Title" offset="205300/3000s" start="205300/3000s" duration="600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts231">fuck</text-style>
+                </text>
+                <text-style-def id="ts231">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="is - Basic Title" offset="206100/3000s" start="206100/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts232">is</text-style>
+                </text>
+                <text-style-def id="ts232">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="C4D - Basic Title" offset="206400/3000s" start="206400/3000s" duration="1600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts233">C4D</text-style>
+                </text>
+                <text-style-def id="ts233">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="file? - Basic Title" offset="208000/3000s" start="208000/3000s" duration="500/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts234">file?</text-style>
+                </text>
+                <text-style-def id="ts234">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="a - Basic Title" offset="209500/3000s" start="209500/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts235">a</text-style>
+                </text>
+                <text-style-def id="ts235">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="need - Basic Title" offset="209100/3000s" start="209100/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts236">need</text-style>
+                </text>
+                <text-style-def id="ts236">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="I - Basic Title" offset="208900/3000s" start="208900/3000s" duration="200/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts237">I</text-style>
+                </text>
+                <text-style-def id="ts237">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="blend - Basic Title" offset="209800/3000s" start="209800/3000s" duration="800/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts238">blend</text-style>
+                </text>
+                <text-style-def id="ts238">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="file. - Basic Title" offset="210600/3000s" start="210600/3000s" duration="900/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts239">file.</text-style>
+                </text>
+                <text-style-def id="ts239">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="Im - Basic Title" offset="212200/3000s" start="212200/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts240">I'm</text-style>
+                </text>
+                <text-style-def id="ts240">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="not - Basic Title" offset="212600/3000s" start="212600/3000s" duration="200/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts241">not</text-style>
+                </text>
+                <text-style-def id="ts241">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="able - Basic Title" offset="212800/3000s" start="212800/3000s" duration="600/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts242">able</text-style>
+                </text>
+                <text-style-def id="ts242">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="to - Basic Title" offset="213400/3000s" start="213400/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts243">to</text-style>
+                </text>
+                <text-style-def id="ts243">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="afford - Basic Title" offset="213800/3000s" start="213800/3000s" duration="1200/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts244">afford</text-style>
+                </text>
+                <text-style-def id="ts244">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="that. - Basic Title" offset="215000/3000s" start="215000/3000s" duration="800/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts245">that.</text-style>
+                </text>
+                <text-style-def id="ts245">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="You - Basic Title" offset="216400/3000s" start="216400/3000s" duration="200/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts246">You</text-style>
+                </text>
+                <text-style-def id="ts246">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="better - Basic Title" offset="216600/3000s" start="216600/3000s" duration="300/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts247">better</text-style>
+                </text>
+                <text-style-def id="ts247">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="subscribe - Basic Title" offset="216900/3000s" start="216900/3000s" duration="1000/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts248">subscribe</text-style>
+                </text>
+                <text-style-def id="ts248">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="by - Basic Title" offset="218100/3000s" start="218100/3000s" duration="1100/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts249">by</text-style>
+                </text>
+                <text-style-def id="ts249">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="a - Basic Title" offset="219200/3000s" start="219200/3000s" duration="400/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts250">a</text-style>
+                </text>
+                <text-style-def id="ts250">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+              <title ref="r2" lane="1" name="C4D. - Basic Title" offset="219600/3000s" start="219600/3000s" duration="1500/3000s">
+                <param name="Flatten" key="9999/999166631/999166633/2/351" value="1"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/3142713059/401" value="1 (Center)"/>
+                <param name="Alignment" key="9999/999166631/999166633/2/354/999169573/401" value="1 (Center)"/>
+                <text>
+                  <text-style ref="ts251">C4D.</text-style>
+                </text>
+                <text-style-def id="ts251">
+                  <text-style font="Chinese rocks" fontSize="60" fontColor="1 1 1 1" alignment="center" fontFace="Regular"/>
+                </text-style-def>
+              </title>
+            </gap>
+          </spine>
+        </sequence>
+      </project>
+    </event>
+    <smart-collection name="Projects" match="all">
+      <match-clip rule="is" type="project"/>
+    </smart-collection>
+    <smart-collection name="All Video" match="any">
+      <match-media rule="is" type="videoOnly"/>
+      <match-media rule="is" type="videoWithAudio"/>
+    </smart-collection>
+    <smart-collection name="Audio Only" match="all">
+      <match-media rule="is" type="audioOnly"/>
+    </smart-collection>
+    <smart-collection name="Stills" match="all">
+      <match-media rule="is" type="stills"/>
+    </smart-collection>
+    <smart-collection name="Favorites" match="all">
+      <match-ratings value="favorites"/>
+    </smart-collection>
+  </library>
+</fcpxml>
